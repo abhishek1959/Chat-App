@@ -1,5 +1,5 @@
 # ChatAPP
-<p>This is web chat application using this app one can chat to one ore more person at one time. This app is live <b> <a href="https://chatapp12.onrender.com/" target="_blank">Here</a></b> 
+<p>This is web chat application using this app one can chat to one ore more person at one time. This app is live <b> <a href="https://chat-app-mklo.onrender.com/" target="_blank">Here</a></b> 
 <p>The main page of this website looks like:-<br>
 <img src="static/IMG/mainpage.png" alt=""><br>
 TO get start click on <b>Getting Started</b> or <b>Log in</b> button. Then this page opens.<br>
